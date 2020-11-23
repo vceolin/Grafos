@@ -1,0 +1,15 @@
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.exe
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.csprojAssemblyReference.cache
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.AssemblyInfoInputs.cache
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.AssemblyInfo.cs
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.deps.json
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.runtimeconfig.json
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.runtimeconfig.dev.json
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.dll
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\ListaPratica_Grafos.pdb
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.csproj.CoreCompileInputs.cache
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.csproj.CopyComplete
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.dll
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.pdb
+C:\Users\vceol\source\repos\ListaPratica_Grafos\ListaPratica_Grafos\obj\Debug\netcoreapp3.1\ListaPratica_Grafos.genruntimeconfig.cache

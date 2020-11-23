@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mYXdgmtJIuZ0fE5s8qOGEyBDt0rs24D5TeM0F/92fJZriuwQoc/Ie5NQFJTPCb/5FavXg3/iJRdMhpJy80Qf8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vceol\\source\\repos\\ListaPratica_Grafos\\ListaPratica_Grafos\\ListaPratica_Grafos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vceol\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
