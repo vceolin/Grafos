@@ -1,11 +1,11 @@
 PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS
 Instituto de Ciências Exatas e Informática
 Lista de Exercícios Prática – 2/2020
-Valor: 5,0 pontos
-Data de entrega: 22/11/2020 (Via Canvas)
- Curso : Sistemas de Informação
- Disciplina : Algoritmos em Grafos
- Professora : Michelle Nery Nascimento
+Curso : Sistemas de Informação
+Disciplina : Algoritmos em Grafos
+Professora : Michelle Nery Nascimento
+Grupo: Vitor Ceolin e Fernando Bretz
+
 Regras Básicas:
 • Todo o código deve ser desenvolvido na linguagem C#.
 • Essa lista de exercícios pode ser resolvida em grupos de até quatro componentes.
@@ -14,6 +14,7 @@ pasta própria. Resoluções entregues após o prazo estabelecido não serão co
 • Os alunos devem comentar todos os métodos implementados.
 • O código deverá ser desenvolvido observando-se o formato de entrada especificado.
 • Cópias de trabalho, de colegas ou de soluções da internet, se existirem, serão zeradas.
+
 Tarefas:
 Implementar os seguintes métodos, em uma classe Grafo:
 1) Para grafos não-dirigidos:
